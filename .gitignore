@@ -1,0 +1,8 @@
+#ignoruje konfiguracje
+config.json
+
+# ignoruje wszystkie pliki z rozszerzeniem .config
+*.json
+
+# ignore node modules
+node_modules
